@@ -1,6 +1,6 @@
 [submodule "wine"]
     path = wine
-    url = https://github.com/ValveSoftware/wine/
+    url = https://github.com/imaami/wine.git
 [submodule "dxvk"]
 	path = dxvk
 	url = https://github.com/ValveSoftware/dxvk/

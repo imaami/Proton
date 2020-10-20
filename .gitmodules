@@ -1,6 +1,7 @@
 [submodule "wine"]
     path = wine
-    url = https://github.com/ValveSoftware/wine/
+	url = https://github.com/imaami/wine/
+	branch = proton_5.14-wip
 [submodule "dxvk"]
 	path = dxvk
 	url = https://github.com/ValveSoftware/dxvk/
